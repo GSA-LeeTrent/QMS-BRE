@@ -31,7 +31,7 @@ BEGIN
 			  ,qms_notification_text 									hrdw_details
 			  ,getUserIdByEmailOrName(notification_email_address)		hrdw_user_id
               ,checkIfUserExist(notification_email_address)  			hrdw_user_exists
-              ,aca.getOrgIdForUserId(aca.getUserIdByEmailOrName(notification_email_address)) hrdw_assigned_org
+              ,aca.getOrgByRoutingKey(qms_routing_key_field_3)          hrdw_assigned_org
               ,qms_short_description 									hrdw_short_error_description
 		FROM new_hrdw.nhrdw_qms_notifications_current_v;
 

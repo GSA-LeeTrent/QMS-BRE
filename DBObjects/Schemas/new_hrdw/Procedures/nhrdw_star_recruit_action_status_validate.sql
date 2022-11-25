@@ -1,5 +1,5 @@
 DELIMITER $$
-CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_star_recruit_action_status_validate`(
+CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_star_recruit_action_status_validate_lee_test`(
    in p_transaction_control_id            bigint
  )
 begin
@@ -28,6 +28,7 @@ begin
   declare l_req_deptid                        varchar(255) default null;    
   declare l_transaction_status_descr          varchar(255) default null;     
   declare l_status_code                       varchar(2) default null;     
+  declare l_center                            varchar(255) default null; 
 
   declare l_qms_routing_key_field_1            varchar(255)   default null;    
   declare l_qms_routing_key_field_2            varchar(255)   default null;    
@@ -49,6 +50,7 @@ begin
          ,nhrdw_sf52_requests.req_deptid
          ,nhrdw_sf52_requests.transaction_status_descr
          ,nhrdw_star_recruit_action.status_code
+		 ,nhrdw_star_recruit_action.center
   from  nhrdw_star_recruit_action 
   join   nhrdw_sf52_requests  on    nhrdw_sf52_requests.cadw_transaction_nbr = nhrdw_star_recruit_action.rpa_number and nhrdw_sf52_requests.transaction_type   IN ('NEW','PUF')
   where nhrdw_star_recruit_action.status_code = 20 
@@ -66,6 +68,7 @@ begin
          ,nhrdw_sf52_requests.req_deptid
          ,nhrdw_sf52_requests.transaction_status_descr  
          ,nhrdw_star_recruit_action.status_code
+		 ,nhrdw_star_recruit_action.center
    from  nhrdw_star_recruit_action 
    join   nhrdw_sf52_requests  on    nhrdw_sf52_requests.cadw_transaction_nbr = nhrdw_star_recruit_action.rpa_number and  nhrdw_sf52_requests.transaction_type   IN ('NEW','PUF')
    where nhrdw_star_recruit_action.status_code = 21 
@@ -102,6 +105,7 @@ begin
                                    ,l_req_deptid         
                                    ,l_transaction_status_descr  
                                    ,l_status_code
+								   ,l_center
                                     ;
                                    
        if ( l_rownotfound = true )  
@@ -149,9 +153,9 @@ begin
                                      ,l_req_deptid
                                      ,null
                                      ,null
-                                     ,l_qms_routing_key_field_1 
-                                     ,l_qms_routing_key_field_2 
-                                     ,l_qms_routing_key_field_3 
+                                     ,'STAFFING'
+                                     ,'GS'
+                                     ,l_center
                                      ,l_qms_routing_key_field_4 
                                      ,l_qms_routing_key_field_5 
                                   );                                                                                       
@@ -179,6 +183,7 @@ begin
                                    ,l_req_deptid        
                                    ,l_transaction_status_descr  
                                    ,l_status_code
+								   ,l_center
                                     ;
                                    
        if ( l_rownotfound = true )  
@@ -226,9 +231,9 @@ begin
                                      ,l_req_deptid
                                      ,null
                                      ,null
-                                     ,l_qms_routing_key_field_1 
-                                     ,l_qms_routing_key_field_2 
-                                     ,l_qms_routing_key_field_3 
+                                     ,'STAFFING'
+                                     ,'GS'
+                                     ,l_center
                                      ,l_qms_routing_key_field_4 
                                      ,l_qms_routing_key_field_5 
                                   );                                            

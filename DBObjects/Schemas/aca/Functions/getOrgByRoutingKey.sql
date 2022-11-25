@@ -16,6 +16,10 @@ BEGIN
 		set orgCode = 'SSOSC';
     elseif routingKey = 'NRC' then
 		set orgCode = 'NRC';
+    elseif routingKey = 'PBS' then
+		set orgCode = 'PBSSC';
+    elseif routingKey = 'FAS' then
+		set orgCode = 'FASSC';
 	else
 		set orgCode = 'GSA_OHRM';
     end if;
