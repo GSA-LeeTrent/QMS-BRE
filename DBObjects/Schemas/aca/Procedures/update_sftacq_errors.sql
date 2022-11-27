@@ -22,17 +22,17 @@ BEGIN
     declare hrdw_assigned_org integer;
   
 	DECLARE cur_onehr_errors CURSOR FOR 
-		select qms_key 													hrdw_qms_key
-			  ,data_item_id 											hrdw_data_item_id
-			  ,error_list_id 											hrdw_error_list_id 
-			  ,system_name 												hrdw_system_name
-			  ,qms_error_code 											hrdw_qms_error_code
-			  ,qms_key_text 											hrdw_summary
-			  ,qms_notification_text 									hrdw_details
-			  ,getUserIdByEmailOrName(notification_email_address)		hrdw_user_id
-              ,checkIfUserExist(notification_email_address)  			hrdw_user_exists
-              ,aca.getOrgIdForUserId(aca.getUserIdByEmailOrName(notification_email_address)) hrdw_assigned_org
-              ,qms_short_description 									hrdw_short_error_description
+		select qms_key 												hrdw_qms_key
+			  ,data_item_id 										hrdw_data_item_id
+			  ,error_list_id 										hrdw_error_list_id 
+			  ,system_name 											hrdw_system_name
+			  ,qms_error_code 										hrdw_qms_error_code
+			  ,qms_key_text 										hrdw_summary
+			  ,qms_notification_text 								hrdw_details
+			  ,getUserIdByEmailOrName(notification_email_address)	hrdw_user_id
+              ,checkIfUserExist(notification_email_address)  		hrdw_user_exists
+              ,getOrgIdForUserId(getUserIdByEmailOrName(notification_email_address))	hrdw_assigned_org
+              ,qms_short_description 								hrdw_short_error_description
 		FROM new_hrdw.nhrdw_qms_notifications_current_v;
 
 	DECLARE CONTINUE HANDLER 
