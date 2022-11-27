@@ -1,5 +1,5 @@
 DELIMITER $$
-CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_star_recruit_action_status_validate_lee_test`(
+CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_star_recruit_action_status_validate`(
    in p_transaction_control_id            bigint
  )
 begin
@@ -50,7 +50,7 @@ begin
          ,nhrdw_sf52_requests.req_deptid
          ,nhrdw_sf52_requests.transaction_status_descr
          ,nhrdw_star_recruit_action.status_code
-		 ,nhrdw_star_recruit_action.center
+         ,nhrdw_star_recruit_action.center
   from  nhrdw_star_recruit_action 
   join   nhrdw_sf52_requests  on    nhrdw_sf52_requests.cadw_transaction_nbr = nhrdw_star_recruit_action.rpa_number and nhrdw_sf52_requests.transaction_type   IN ('NEW','PUF')
   where nhrdw_star_recruit_action.status_code = 20 
@@ -129,12 +129,12 @@ begin
        call nhrdw_qms_notifications_api
                                 (
                                        p_transaction_control_id                                  
-                                     ,'HRLinks'
-                                     ,'HRLinks PAR Status'
-                                     ,'HRLinks:PARSTATUS:001'      
+                                     ,'STAR'
+                                     ,'STAR PAR Status'
+                                     ,'STAR:STATUS:001'      
                                      ,l_hr_consultant
-                                     ,'HRLinks'
-                                     ,'HRLinks:PARSTATUS:001'     
+                                     ,'STAR'
+                                     ,'STAR:STATUS:001'     
                                      ,l_rpa_number
                                      ,l_status_code 
                                      ,null 
@@ -207,12 +207,12 @@ begin
        call nhrdw_qms_notifications_api 
                                 (
                                        p_transaction_control_id                                  
-                                     ,'HRLinks'
-                                     ,'HRLinks PAR Status'
-                                     ,'HRLinks:PARSTATUS:002'      
+                                     ,'STAR'
+                                     ,'STAR PAR Status'
+                                     ,'STAR:STATUS:002'      
                                      ,l_hr_consultant
-                                     ,'HRLinks'
-                                     ,'HRLinks:PARSTATUS:002'     
+                                     ,'STAR'
+                                     ,'STAR:STATUS:002'     
                                      ,l_rpa_number
                                      ,l_status_code 
                                      ,null 
