@@ -125,12 +125,12 @@ begin
        call nhrdw_qms_notifications_api
                                 (
                                        p_transaction_control_id                                  
-                                     ,'HRLinks'
-                                     ,'HRLinks PAR Status'
-                                     ,'HRLinks:PARSTATUS:001'      
+                                     ,'STAR'
+                                     ,'STAR PAR Status'
+                                     ,'STAR:STATUS:001'      
                                      ,l_hr_consultant
-                                     ,'HRLinks'
-                                     ,'HRLinks:PARSTATUS:001'     
+                                     ,'STAR'
+                                     ,'STAR:STATUS:001'     
                                      ,l_rpa_number
                                      ,l_status_code 
                                      ,null 
@@ -202,12 +202,12 @@ begin
        call nhrdw_qms_notifications_api 
                                 (
                                        p_transaction_control_id                                  
-                                     ,'HRLinks'
-                                     ,'HRLinks PAR Status'
-                                     ,'HRLinks:PARSTATUS:002'      
+                                     ,'STAR'
+                                     ,'STAR PAR Status'
+                                     ,'STAR:STATUS:002'      
                                      ,l_hr_consultant
-                                     ,'HRLinks'
-                                     ,'HRLinks:PARSTATUS:002'     
+                                     ,'STAR'
+                                     ,'STAR:STATUS:002'     
                                      ,l_rpa_number
                                      ,l_status_code 
                                      ,null 
