@@ -1,5 +1,7 @@
+USE aca;
+DROP FUNCTION getOrgByRoutingKey;
 DELIMITER $$
-CREATE DEFINER=`ACA_USER`@`%` FUNCTION `getOrgByRoutingKey`(routingKey varchar(4)) RETURNS int(11)
+CREATE FUNCTION getOrgByRoutingKey(routingKey varchar(4)) RETURNS int(11)
 BEGIN
     declare orgId int; 
     declare orgCode varchar(8);

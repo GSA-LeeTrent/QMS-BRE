@@ -1,5 +1,7 @@
+USE new_hrdw;
+DROP PROCEDURE nhrdw_mgs_adhoc_g_cert_application_validate;
 DELIMITER $$
-CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_mgs_adhoc_g_cert_application_validate`(
+CREATE PROCEDURE nhrdw_mgs_adhoc_g_cert_application_validate(
    in p_transaction_control_id            bigint
  )
 begin
@@ -132,6 +134,8 @@ begin
     resignal;
  end;  
 
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'BEGIN: nhrdw_mgs_adhoc_g_cert_application_validate');  
+  
   set l_rownotfound := false;
 
   open c_cert_app_par_number_is_null;  
@@ -305,6 +309,6 @@ begin
      
   end loop;        
 
-       
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'END: nhrdw_mgs_adhoc_g_cert_application_validate');       
 end$$
 DELIMITER ;

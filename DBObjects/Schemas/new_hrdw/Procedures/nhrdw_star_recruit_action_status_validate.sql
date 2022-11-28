@@ -1,5 +1,7 @@
+USE new_hrdw;
+DROP PROCEDURE nhrdw_star_recruit_action_status_validate;
 DELIMITER $$
-CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_star_recruit_action_status_validate`(
+CREATE PROCEDURE nhrdw_star_recruit_action_status_validate (
    in p_transaction_control_id            bigint
  )
 begin
@@ -85,6 +87,7 @@ begin
     resignal;
  end;  
 
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'BEGIN: nhrdw_star_recruit_action_status_validate');  
   set l_rownotfound := false;
 
   open c_star_eod;  
@@ -241,5 +244,7 @@ begin
                                        
   end loop;      
   COMMIT; 
+  
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'END: nhrdw_star_recruit_action_status_validate');  
 end$$
 DELIMITER ;
