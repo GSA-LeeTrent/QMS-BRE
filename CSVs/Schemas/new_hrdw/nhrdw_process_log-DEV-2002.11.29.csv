@@ -1,0 +1,42 @@
+PROCESS_CONTROL_ID,TRANSACTION_CONTROL_ID,LOG_MESSAGE_STATUS,LOG_MESSAGE_DATE,LOG_MESSAGE_TEXT,CREATED_BY,CREATION_DATE,LAST_UPDATE_DATE,LAST_UPDATED_BY
+155159,-6001,S,"2022-11-29 04:34:55","Employee Reported Time Process Started",HRDWCORPDATA@172.30.64.12,"2022-11-29 04:34:55","2022-11-29 04:34:55",HRDWCORPDATA@172.30.64.12
+155160,-6001,I,"2022-11-29 04:41:45","nhrdw_tl_rptd_time - Rows Deleted: 152254",HRDWCORPDATA@172.30.64.12,"2022-11-29 04:41:45","2022-11-29 04:41:45",HRDWCORPDATA@172.30.64.12
+155161,-6001,I,"2022-11-29 04:44:36","nhrdw_tl_rptd_time - Rows Inserted: 157033",HRDWCORPDATA@172.30.64.12,"2022-11-29 04:44:36","2022-11-29 04:44:36",HRDWCORPDATA@172.30.64.12
+155162,-6001,S,"2022-11-29 04:44:36","Employee Reported Time Process Successfully Completed",HRDWCORPDATA@172.30.64.12,"2022-11-29 04:44:36","2022-11-29 04:44:36",HRDWCORPDATA@172.30.64.12
+155163,-5001,E,"2022-11-29 04:47:24","Employee Payable Time Process Failed due to mismatch in the Records between ACAPRD and LABD",HRDWCORPDATA@172.30.64.12,"2022-11-29 04:47:24","2022-11-29 04:47:24",HRDWCORPDATA@172.30.64.12
+155164,-20001,I,"2022-11-29 07:00:00","Snapshot Refreshing ACAPRD Counts Started",event_scheduler@localhost,"2022-11-29 07:00:00","2022-11-29 07:00:00",event_scheduler@localhost
+155165,-20001,I,"2022-11-29 07:01:26","Snapshot Refreshing ACAPRD Counts Completed",event_scheduler@localhost,"2022-11-29 07:01:26","2022-11-29 07:01:26",event_scheduler@localhost
+155166,-20001,I,"2022-11-29 07:01:27","Refresh Ethnicity and Race",event_scheduler@localhost,"2022-11-29 07:01:27","2022-11-29 07:01:27",event_scheduler@localhost
+155167,-20001,I,"2022-11-29 07:01:28","Refresh Employee Accomplishment",event_scheduler@localhost,"2022-11-29 07:01:28","2022-11-29 07:01:28",event_scheduler@localhost
+155168,-8001,I,"2022-11-29 07:01:28","Refresh NHRDW_EMPLOYEE_ACCOMPLISHMENT - Started",event_scheduler@localhost,"2022-11-29 07:01:28","2022-11-29 07:01:28",event_scheduler@localhost
+155169,-8001,I,"2022-11-29 07:01:30","Refresh NHRDW_EMPLOYEE_ACCOMPLISHMENT - Completed",event_scheduler@localhost,"2022-11-29 07:01:30","2022-11-29 07:01:30",event_scheduler@localhost
+155170,-20001,I,"2022-11-29 07:01:30","Refresh SF50 Transaction",event_scheduler@localhost,"2022-11-29 07:01:30","2022-11-29 07:01:30",event_scheduler@localhost
+155171,-7001,I,"2022-11-29 07:01:30","Refresh SF50 Transaction : Identify Same Day Prior Actions",event_scheduler@localhost,"2022-11-29 07:01:30","2022-11-29 07:01:30",event_scheduler@localhost
+155172,-7001,I,"2022-11-29 07:04:13","Refresh SF50 Transaction : Identify Actions that does not have have sameday Prior Actions",event_scheduler@localhost,"2022-11-29 07:04:13","2022-11-29 07:04:13",event_scheduler@localhost
+155173,-7001,I,"2022-11-29 07:07:52","Refresh SF50 Transaction : Identify Actions that does not have any prior day actions",event_scheduler@localhost,"2022-11-29 07:07:52","2022-11-29 07:07:52",event_scheduler@localhost
+155174,-7001,I,"2022-11-29 07:07:58","Refresh SF50 Transaction : Update the Transactions that were already corrected with the Transaction Status Corrected",event_scheduler@localhost,"2022-11-29 07:07:58","2022-11-29 07:07:58",event_scheduler@localhost
+155175,-7001,I,"2022-11-29 07:08:02","Refresh SF50 Transaction : Update the Transactions that were already corrected with the Transaction Status Corrected0",event_scheduler@localhost,"2022-11-29 07:08:02","2022-11-29 07:08:02",event_scheduler@localhost
+155176,-7001,I,"2022-11-29 07:08:04","Refresh SF50 Transaction : Update the Transactions that were already corrected with the Corrective Action Details 13115",event_scheduler@localhost,"2022-11-29 07:08:04","2022-11-29 07:08:04",event_scheduler@localhost
+155177,-7001,I,"2022-11-29 07:08:04","Refresh SF50 Transaction : Identify Transactions where NOA Code was corrected",event_scheduler@localhost,"2022-11-29 07:08:04","2022-11-29 07:08:04",event_scheduler@localhost
+155178,-7001,I,"2022-11-29 07:08:06","Refresh SF50 Transaction : Derive Employee Status Phase 1",event_scheduler@localhost,"2022-11-29 07:08:06","2022-11-29 07:08:06",event_scheduler@localhost
+155179,-7001,I,"2022-11-29 07:08:07","Refresh SF50 Transaction : Derive Employee Status Phase 2",event_scheduler@localhost,"2022-11-29 07:08:07","2022-11-29 07:08:07",event_scheduler@localhost
+155180,-7001,I,"2022-11-29 07:08:11","Refresh SF50 Transaction : Update  Employee Status Phase 1",event_scheduler@localhost,"2022-11-29 07:08:11","2022-11-29 07:08:11",event_scheduler@localhost
+155181,-7001,I,"2022-11-29 07:08:11","Refresh SF50 Transaction : Update  Employee Status Phase 2",event_scheduler@localhost,"2022-11-29 07:08:11","2022-11-29 07:08:11",event_scheduler@localhost
+155182,-7001,I,"2022-11-29 07:08:11","Refresh SF50 Transaction : Update  Employee Status Phase 3",event_scheduler@localhost,"2022-11-29 07:08:11","2022-11-29 07:08:11",event_scheduler@localhost
+155183,-7001,I,"2022-11-29 07:08:11","Refresh SF50 Transaction : Insert Future Employee Status Phase 1",event_scheduler@localhost,"2022-11-29 07:08:11","2022-11-29 07:08:11",event_scheduler@localhost
+155184,-7001,I,"2022-11-29 07:08:12","Refresh SF50 Transaction : Insert Future Employee Status Phase 2",event_scheduler@localhost,"2022-11-29 07:08:12","2022-11-29 07:08:12",event_scheduler@localhost
+155185,-7001,I,"2022-11-29 07:08:18","Refresh SF50 Transaction : Update Future Employee Status Phase",event_scheduler@localhost,"2022-11-29 07:08:18","2022-11-29 07:08:18",event_scheduler@localhost
+155186,-7001,I,"2022-11-29 07:08:19","Refresh SF50 Transaction : Change in Agency Code Subelement Phase I",event_scheduler@localhost,"2022-11-29 07:08:19","2022-11-29 07:08:19",event_scheduler@localhost
+155187,-7001,I,"2022-11-29 07:08:20","Refresh SF50 Transaction : Change in Agency Code Subelement Phase II",event_scheduler@localhost,"2022-11-29 07:08:20","2022-11-29 07:08:20",event_scheduler@localhost
+155188,-7001,I,"2022-11-29 07:08:24","Refresh SF50 Transaction : Change in Department Phase I",event_scheduler@localhost,"2022-11-29 07:08:24","2022-11-29 07:08:24",event_scheduler@localhost
+155189,-7001,I,"2022-11-29 07:08:24","Refresh SF50 Transaction : Change in Department Phase II",event_scheduler@localhost,"2022-11-29 07:08:24","2022-11-29 07:08:24",event_scheduler@localhost
+155190,-7001,I,"2022-11-29 07:08:48","Refresh SF50 Transaction : Change in Supervisory Level Phase I",event_scheduler@localhost,"2022-11-29 07:08:48","2022-11-29 07:08:48",event_scheduler@localhost
+155191,-7001,I,"2022-11-29 07:08:49","Refresh SF50 Transaction : Change in Supervisory Level Phase II",event_scheduler@localhost,"2022-11-29 07:08:49","2022-11-29 07:08:49",event_scheduler@localhost
+155192,-7001,I,"2022-11-29 07:08:55","Refresh SF50 Transaction : Insert SF50 Personnel Action",event_scheduler@localhost,"2022-11-29 07:08:55","2022-11-29 07:08:55",event_scheduler@localhost
+155193,-7001,I,"2022-11-29 07:19:19","Refresh SF50 Transaction : Insert SF50 Personnel Action Position Info",event_scheduler@localhost,"2022-11-29 07:19:19","2022-11-29 07:19:19",event_scheduler@localhost
+155194,-7001,I,"2022-11-29 07:21:35","Refresh SF50 Transaction : Insert SF50 Personnel Action Org Location",event_scheduler@localhost,"2022-11-29 07:21:35","2022-11-29 07:21:35",event_scheduler@localhost
+155195,-7001,I,"2022-11-29 07:24:19","Refresh SF50 Transaction : Insert SF50 Personnel Action Additional Info",event_scheduler@localhost,"2022-11-29 07:24:19","2022-11-29 07:24:19",event_scheduler@localhost
+155196,-30001,I,"2022-11-29 07:28:38","Refresh OHRMBI BPR Transaction : Process Started",event_scheduler@localhost,"2022-11-29 07:28:38","2022-11-29 07:28:38",event_scheduler@localhost
+155197,-30001,I,"2022-11-29 07:28:40","Refresh OHRMBI : Insert OHRMBI_BPR_EMPLOYEE_TRANSACTIONS14857",event_scheduler@localhost,"2022-11-29 07:28:40","2022-11-29 07:28:40",event_scheduler@localhost
+155198,-30001,I,"2022-11-29 07:28:40","Refresh OHRMBI BPR Transaction : Process Completed",event_scheduler@localhost,"2022-11-29 07:28:40","2022-11-29 07:28:40",event_scheduler@localhost
+155199,-7001,I,"2022-11-29 07:28:40","Refresh SF52 Requests :  Create Position ",event_scheduler@localhost,"2022-11-29 07:28:40","2022-11-29 07:28:40",event_scheduler@localhost
