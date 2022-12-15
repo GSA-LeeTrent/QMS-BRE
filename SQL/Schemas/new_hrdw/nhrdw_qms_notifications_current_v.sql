@@ -10,7 +10,7 @@ FROM new_hrdw.nhrdw_qms_notifications_current_v
 WHERE system_name = 'USA_STAFFING'
 ORDER BY notification_email_address;
 
-SELECT DISTINCT notification_email_address
+SELECT  notification_email_address, system_name, qms_routing_key_field_3, length(qms_routing_key_field_3)
 FROM new_hrdw.nhrdw_qms_notifications_current_v
 WHERE system_name = 'USA_STAFFING'
 AND notification_email_address NOT IN (SELECT email_address FROM aca.sec_user);
