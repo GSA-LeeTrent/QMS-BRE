@@ -1,0 +1,2135 @@
+qms_stfacq_error_id,qms_key,data_item_id,error_list_id,system_name,error_summary,error_details,notes,short_error_description,assigned_to_user_id,assigned_by_user_id,assigned_to_org_id,created_by_user_id,status_id,qms_error_code,created_at,assigned_at,resolved_at,submitted_at,updated_at,deleted_at,row_version
+762,USA_STAFFING:USS:REQNUM:001:5:100073,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100073 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22NRCA039HDOTR </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+763,USA_STAFFING:USS:REQNUM:001:5:100196,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100196 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22NRCA041HDOTR </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+764,USA_STAFFING:USS:REQNUM:001:5:100224,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100224 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22NRCA038HDOTR </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+765,USA_STAFFING:USS:REQNUM:001:5:100268,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100268 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-02SP0343-FAS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+766,USA_STAFFING:USS:REQNUM:001:5:100288,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100288 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-03SP1101-FAS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+767,USA_STAFFING:USS:REQNUM:001:5:100296,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100296 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-04SP1102-FAS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+768,USA_STAFFING:USS:REQNUM:001:5:100319,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100319 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-05SP2210-FAS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+769,USA_STAFFING:USS:REQNUM:001:5:100327,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100327 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-06SP0343-PBS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+770,USA_STAFFING:USS:REQNUM:001:5:100389,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100389 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-07SP1101-PBS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+771,USA_STAFFING:USS:REQNUM:001:5:100395,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 100395 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22-08SP1102-PBS </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+772,USA_STAFFING:USS:REQNUM:001:5:103016,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 103016 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: SMEQA-1102-09T12 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+773,USA_STAFFING:USS:REQNUM:001:5:103283,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 103283 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5157 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+774,USA_STAFFING:USS:REQNUM:001:5:103714,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 103714 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5654 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+775,USA_STAFFING:USS:REQNUM:001:5:104168,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 104168 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2111 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+776,USA_STAFFING:USS:REQNUM:001:5:105841,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 105841 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220504-34898 </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+777,USA_STAFFING:USS:REQNUM:001:5:107601,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 107601 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7164U-1 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+778,USA_STAFFING:USS:REQNUM:001:5:107839,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 107839 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22NRCA062HDDE </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+779,USA_STAFFING:USS:REQNUM:001:5:109087,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109087 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6972 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+780,USA_STAFFING:USS:REQNUM:001:5:109818,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109818 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2324 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+781,USA_STAFFING:USS:REQNUM:001:5:109820,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109820 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2325 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+782,USA_STAFFING:USS:REQNUM:001:5:109822,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109822 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5835 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+783,USA_STAFFING:USS:REQNUM:001:5:109823,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109823 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5927 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+784,USA_STAFFING:USS:REQNUM:001:5:109826,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109826 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5929 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+785,USA_STAFFING:USS:REQNUM:001:5:109827,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109827 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6452 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+786,USA_STAFFING:USS:REQNUM:001:5:109828,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109828 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6453 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+787,USA_STAFFING:USS:REQNUM:001:5:109829,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109829 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6600 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+788,USA_STAFFING:USS:REQNUM:001:5:109830,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109830 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7092 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+789,USA_STAFFING:USS:REQNUM:001:5:109834,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109834 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6335 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+790,USA_STAFFING:USS:REQNUM:001:5:109835,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109835 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6336 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+791,USA_STAFFING:USS:REQNUM:001:5:109836,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109836 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6338 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+792,USA_STAFFING:USS:REQNUM:001:5:109837,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109837 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2097 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+793,USA_STAFFING:USS:REQNUM:001:5:109838,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109838 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2098 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+794,USA_STAFFING:USS:REQNUM:001:5:109839,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109839 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5785 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+795,USA_STAFFING:USS:REQNUM:001:5:109841,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109841 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7491 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+796,USA_STAFFING:USS:REQNUM:001:5:109843,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109843 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7186 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+797,USA_STAFFING:USS:REQNUM:001:5:109848,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109848 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5956 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+798,USA_STAFFING:USS:REQNUM:001:5:109849,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109849 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6755 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+799,USA_STAFFING:USS:REQNUM:001:5:109850,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109850 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6775 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+800,USA_STAFFING:USS:REQNUM:001:5:109852,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109852 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6777 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+801,USA_STAFFING:USS:REQNUM:001:5:109853,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109853 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6778 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+802,USA_STAFFING:USS:REQNUM:001:5:109855,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109855 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5912 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+803,USA_STAFFING:USS:REQNUM:001:5:109856,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109856 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5913 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+804,USA_STAFFING:USS:REQNUM:001:5:109858,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109858 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5914 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+805,USA_STAFFING:USS:REQNUM:001:5:109859,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109859 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5915 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+806,USA_STAFFING:USS:REQNUM:001:5:109860,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109860 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5918 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+807,USA_STAFFING:USS:REQNUM:001:5:109861,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109861 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5916 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+808,USA_STAFFING:USS:REQNUM:001:5:109862,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109862 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5917 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+809,USA_STAFFING:USS:REQNUM:001:5:109870,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109870 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6054 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+810,USA_STAFFING:USS:REQNUM:001:5:109871,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109871 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5954 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+811,USA_STAFFING:USS:REQNUM:001:5:109927,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109927 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220624-22467 </strong><br>
+HR Manager Name: diane.collins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+812,USA_STAFFING:USS:REQNUM:001:5:109950,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109950 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6247 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+813,USA_STAFFING:USS:REQNUM:001:5:109985,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 109985 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7347 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+814,USA_STAFFING:USS:REQNUM:001:5:110023,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110023 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 6313 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+815,USA_STAFFING:USS:REQNUM:001:5:110358,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110358 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 5246 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+816,USA_STAFFING:USS:REQNUM:001:5:110473,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110473 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7637 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+817,USA_STAFFING:USS:REQNUM:001:5:110691,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110691 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 22NRCA071HDOTR </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+818,USA_STAFFING:USS:REQNUM:001:5:110858,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110858 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7416 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+819,USA_STAFFING:USS:REQNUM:001:5:110859,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 110859 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7492 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+820,USA_STAFFING:USS:REQNUM:001:5:111026,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 111026 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: GS-0301-05-07 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+821,USA_STAFFING:USS:REQNUM:001:5:121124,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 121124 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7908 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+822,USA_STAFFING:USS:REQNUM:001:5:121190,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 121190 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7556 </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+823,USA_STAFFING:USS:REQNUM:001:5:121243,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 121243 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 7767 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+824,USA_STAFFING:USS:REQNUM:001:5:121409,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 121409 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220714-81524 </strong><br>
+HR Manager Name: diane.collins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+825,USA_STAFFING:USS:REQNUM:001:5:123833,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 123833 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220812-86320-SHARED </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+826,USA_STAFFING:USS:REQNUM:001:5:123990,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 123990 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220816-35798-SHARED </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+827,USA_STAFFING:USS:REQNUM:001:5:123991,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 123991 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220816-70485-SHARED </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+828,USA_STAFFING:USS:REQNUM:001:5:124139,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 124139 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: SMEQA-0101-13 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+829,USA_STAFFING:USS:REQNUM:001:5:126665,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 126665 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20220913-36713-SHARED </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+830,USA_STAFFING:USS:REQNUM:001:5:127720,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 127720 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 380526-SHARED </strong><br>
+HR Manager Name: diane.collins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+831,USA_STAFFING:USS:REQNUM:001:5:128684,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 128684 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23-05FA </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+832,USA_STAFFING:USS:REQNUM:001:5:129025,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 129025 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2301NRC343FA </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+833,USA_STAFFING:USS:REQNUM:001:5:129145,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 129145 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23-07FA </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+834,USA_STAFFING:USS:REQNUM:001:5:129448,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 129448 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20221007-50533 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+835,USA_STAFFING:USS:REQNUM:001:5:130140,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 130140 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23-09FA </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+836,USA_STAFFING:USS:REQNUM:001:5:130560,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 130560 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20221017-63101 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+837,USA_STAFFING:USS:REQNUM:001:5:130649,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 130649 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20221017-13376 </strong><br>
+HR Manager Name: kennieth.claybrooks@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+838,USA_STAFFING:USS:REQNUM:001:5:89304,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 89304 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: FY22FALLPBS1101 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+839,USA_STAFFING:USS:REQNUM:001:5:89309,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 89309 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: FY22FALLPBS1176 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+840,USA_STAFFING:USS:REQNUM:001:5:89906,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 89906 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 3147 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+841,USA_STAFFING:USS:REQNUM:001:5:89999,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 89999 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: FALL22-FAS-OCFO-0501 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+842,USA_STAFFING:USS:REQNUM:001:5:90031,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 90031 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 2210X </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+843,USA_STAFFING:USS:REQNUM:001:5:90094,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 90094 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 3443 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+844,USA_STAFFING:USS:REQNUM:001:5:90128,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 90128 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 0560X </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+845,USA_STAFFING:USS:REQNUM:001:5:90692,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 90692 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: FY22OCFO0343 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+846,USA_STAFFING:USS:REQNUM:001:5:92385,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 92385 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: R10PBS1176 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+847,USA_STAFFING:USS:REQNUM:001:5:92395,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 92395 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: R10PBS1101 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+848,USA_STAFFING:USS:REQNUM:001:5:95337,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 95337 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 1244 </strong><br>
+HR Manager Name: jessica.crockwell@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",44,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+849,USA_STAFFING:USS:REQNUM:001:5:97052,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 97052 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 4258 </strong><br>
+HR Manager Name: diane.collins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-10-31 08:16:47",NULL,NULL,NULL,NULL,NULL,1
+850,USA_STAFFING:USS:REQNUM:001:5:99047,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 99047 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 4656 </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-10-31 08:16:47","2022-10-31 08:16:47",NULL,NULL,NULL,NULL,1
+853,USA_STAFFING:USS:REQNUM:001:5:131619,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 131619 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20221021-96578 </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-11-02 09:12:20",NULL,NULL,NULL,NULL,NULL,1
+854,USA_STAFFING:USS:REQNUM:001:5:132073,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 132073 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 9067 </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-11-02 09:12:20",NULL,NULL,NULL,NULL,NULL,1
+855,USA_STAFFING:USS:REQNUM:001:5:132131,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 132131 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23011NRC501FA </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-11-02 09:12:20",NULL,NULL,NULL,NULL,NULL,1
+856,USA_STAFFING:USS:REQNUM:001:5:132141,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 132141 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 9069 </strong><br>
+HR Manager Name: hiwot.dagnachew@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,3,0,1,USS:REQNUM:001,"2022-11-02 09:12:20",NULL,NULL,NULL,NULL,NULL,1
+857,USA_STAFFING:USS:REQNUM:001:5:132144,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 132144 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23-11FA </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-11-02 09:12:20","2022-11-02 09:12:20",NULL,NULL,NULL,NULL,1
+858,USA_STAFFING:USS:REQNUM:001:5:132216,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 132216 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 23-10FA </strong><br>
+HR Manager Name: kenneth.l.johnson@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",108,0,9,0,2,USS:REQNUM:001,"2022-11-02 09:12:20","2022-11-02 09:12:20",NULL,NULL,NULL,NULL,1
+1635,USA_STAFFING:USS:REQNUM:001:5:136231,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 136231 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 20221130-43844 </strong><br>
+HR Manager Name:   <br>
+                                     ",NULL,"Invalid Request Number",186,0,9,0,1,USS:REQNUM:001,"2022-12-03 09:16:39",NULL,NULL,NULL,NULL,NULL,1
+1654,USA_STAFFING:USS:REQNUM:001:5:137059,310,274,USA_STAFFING,"<p>Key Values: </p>
+<br> 
+<br> 
+<br> 
+System Name: USA_STAFFING <br> 
+Error Code: USS:REQNUM:001 <br>
+Tenant ID: 5 <br> 
+Request ID: 137059 <br>
+
+","<p>The Request Number field in the request is an invalid format.  The format should be: <br>
+{number}U OR <br>
+{number}C <br>
+Example:  1234U 
+</p> 
+<br>
+<br>
+Current Value(s): 
+<br> 
+<br> 
+<strong>Invalid Request Number: 382185-SHARED </strong><br>
+HR Manager Name: noelle.robbins@gsa.gov <br>
+                                     ",NULL,"Invalid Request Number",186,0,9,0,1,USS:REQNUM:001,"2022-12-09 09:20:40",NULL,NULL,NULL,NULL,NULL,1
