@@ -1,13 +1,13 @@
 USE new_hrdw;
-DROP PROCEDURE nhrdw_star_recruit_action_status_validate;
+DROP PROCEDURE new_hrdw.nhrdw_star_recruit_action_status_validate;
 DELIMITER $$
-CREATE PROCEDURE nhrdw_star_recruit_action_status_validate (
+CREATE PROCEDURE new_hrdw.nhrdw_star_recruit_action_status_validate (
    in p_transaction_control_id            bigint
  )
 begin
 
 
-  #variables
+  
   declare l_errmsg  TEXT;  
   declare l_hrdw_version varchar(200)  default 'HRDW Patch 94.0';
   declare l_rownotfound                int default false;
@@ -39,7 +39,7 @@ begin
   declare l_qms_routing_key_field_5            varchar(255)   default null;    
 
      
-  #cursors
+  
   
   declare c_star_eod cursor for
   select  nhrdw_star_recruit_action.rpa_number
@@ -87,7 +87,8 @@ begin
     resignal;
  end;  
 
-  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'BEGIN: nhrdw_star_recruit_action_status_validate');  
+  -- call nhrdw_process_log_trk (p_transaction_control_id, 'I', 'BEGIN: nhrdw_star_recruit_action_status_validate');  
+  
   set l_rownotfound := false;
 
   open c_star_eod;  
@@ -118,17 +119,7 @@ begin
        end if; 
        
        
-/*       
-       call nhrdw_mgs_routing_key (            
-                                          l_vacancy_announcement_number  
-                                         ,l_vacancy_cpdf_code 
-                                         ,l_qms_routing_key_field_1         
-                                         ,l_qms_routing_key_field_2         
-                                         ,l_qms_routing_key_field_3         
-                                         ,l_qms_routing_key_field_4         
-                                         ,l_qms_routing_key_field_5         
-                                  );
-*/                                         
+                                         
        call nhrdw_qms_notifications_api
                                 (
                                        p_transaction_control_id                                  
@@ -196,17 +187,7 @@ begin
        end if; 
        
        
-/*       
-       call nhrdw_mgs_routing_key (            
-                                          l_vacancy_announcement_number  
-                                         ,l_vacancy_cpdf_code 
-                                         ,l_qms_routing_key_field_1         
-                                         ,l_qms_routing_key_field_2         
-                                         ,l_qms_routing_key_field_3         
-                                         ,l_qms_routing_key_field_4         
-                                         ,l_qms_routing_key_field_5         
-                                  );
-*/                                         
+                                         
        call nhrdw_qms_notifications_api 
                                 (
                                        p_transaction_control_id                                  
@@ -245,6 +226,6 @@ begin
   end loop;      
   COMMIT; 
   
-  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'END: nhrdw_star_recruit_action_status_validate');  
+  -- call nhrdw_process_log_trk (p_transaction_control_id, 'I', 'END: nhrdw_star_recruit_action_status_validate');  
 end$$
 DELIMITER ;

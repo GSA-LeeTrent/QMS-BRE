@@ -1,9 +1,9 @@
+USE new_hrdw;
 DELIMITER $$
 CREATE DEFINER=`HRDWCORPDATA`@`%` PROCEDURE `nhrdw_uss_mstr_requests_validate`(
    in p_transaction_control_id            bigint
  )
 begin
-
 
   #variables
   declare l_errmsg  TEXT;  
@@ -16,17 +16,12 @@ begin
   declare l_qms_key                    varchar(255) default null;
   declare l_proc                       varchar(200);
 
-
-
   declare l_tenantid                            bigint default null;    
   declare l_requestid                           bigint default null;    
   declare l_approvername                        varchar(255) default null;    
   declare l_approveremail                       varchar(255) default null;    
   declare l_requestnumber                       varchar(255) default null;    
   declare l_creationdatetime                    datetime     default null;    
-
-
-
   
   #cursors
   
@@ -48,6 +43,8 @@ begin
     rollback;
     resignal;
  end;  
+ 
+  call  nhrdw_process_log_trk (l_transaction_control_id, 'I', 'BEGIN: nhrdw_uss_mstr_requests_validate');
 
   set l_rownotfound := false;
 
@@ -114,6 +111,7 @@ begin
      
   end loop;        
 
+  call  nhrdw_process_log_trk (l_transaction_control_id, 'I', 'END: nhrdw_uss_mstr_requests_validate');
        
 end$$
 DELIMITER ;

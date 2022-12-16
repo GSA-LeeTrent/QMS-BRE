@@ -78,6 +78,8 @@ begin
     rollback;
     resignal;
  end;  
+ 
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'BEGIN: nhrdw_mgs_adhoc_g_vacancy_validate');  
 
   set l_rownotfound := false;
 
@@ -226,7 +228,9 @@ begin
        
  
      
-  end loop;        
+  end loop;      
+
+  call nhrdw_process_log_trk (l_transaction_control_id, 'I', 'END: nhrdw_mgs_adhoc_g_vacancy_validate');  
        
 end$$
 DELIMITER ;
